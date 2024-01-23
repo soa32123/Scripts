@@ -1,3 +1,3 @@
-# ASO
+# Scripts
 
-## Material para la asignatura de ASO
+## Material para la asignatura de Scripts
